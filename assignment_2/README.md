@@ -24,7 +24,7 @@ A simple React-based To Do List app that lets users:
 ## 🚀 How to Clone and Run
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/gokulraktate/CSI_ASSIGNMENTS.git
 cd assignment_2
 npm install
 npm start
