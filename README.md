@@ -1,4 +1,4 @@
-# 💼 CSI Internship Weekly Assignments - Summer 2025
+# 💼 Celebal Summer Internship (CSI'25) Weekly Assignments
 
 Welcome to the official repository for weekly assignments completed as part of the **CSI'25 Internship** at **Celebal Technologies**. Each assignment is organized in folders by week and includes React-based frontend projects with modern development practices.
 
