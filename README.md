@@ -7,7 +7,7 @@ Welcome to the official repository for weekly assignments completed as part of t
 
 ## 📅 Internship Details
 
-- 🏢 **Company**: CSI
+- 🏢 **Company**: Celebal Technologies
 - 👨‍💻 **Role**: Web Development Intern (React)
 - 📆 **Duration**: June 2025 – August 2025
 
@@ -30,7 +30,13 @@ Develop a React To-Do List component allowing task addition, removal, and comple
 📁 **Folder**: `/assignment_2`
 
 ---
+### ✅ Assignment 3 – React Admin Dashboard
 
+Develop a React Admin Dashboard app with customizable themes, tables, charts, calendar, and Kanban board. Implement interactive features, seamless integration, and smooth user experience.
+
+📁 **Folder**: `/assignment_3`
+
+---
 
 
 > 📌 **Weekly assignments will be updated here as the internship progresses. Stay tuned!**
