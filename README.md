@@ -37,6 +37,13 @@ Develop a React Admin Dashboard app with customizable themes, tables, charts, ca
 📁 **Folder**: `/assignment_3`
 
 ---
+### ✅ Assignment 4 – React Admin Dashboard
+
+Develop a React Admin Dashboard app with customizable themes, tables, charts, calendar, and Kanban board. Implement interactive features, seamless integration, and smooth user experience.
+
+📁 **Folder**: `/assignment_4`
+
+---
 
 
 > 📌 **Weekly assignments will be updated here as the internship progresses. Stay tuned!**
