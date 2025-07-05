@@ -44,6 +44,14 @@ Develop a React Admin Dashboard app with customizable themes, tables, charts, ca
 📁 **Folder**: `/assignment_4`
 
 ---
+---
+### ✅ Assignment 5 – Spotify 2.0 Clone
+
+Develop a Spotify 2.0 Clone Music App with enhanced features. Include music playlists, search functionality, player controls, albums, and genre options. Ensure seamless integration and smooth user experience.
+
+📁 **Folder**: `/assignment_5`
+
+---
 
 
 > 📌 **Weekly assignments will be updated here as the internship progresses. Stay tuned!**
