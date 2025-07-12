@@ -1,7 +1,7 @@
 
 ---
 
-# Assignment 5 – Spotify 2.0 Clone Music App 🎧
+# Assignment 6 – Spotify 2.0 Clone Music App 🎧
 
 A sleek and fully responsive **Spotify 2.0 Clone Music Application** built using **React** and **Tailwind CSS**, offering an immersive and dynamic music experience.
 
@@ -23,7 +23,7 @@ A sleek and fully responsive **Spotify 2.0 Clone Music Application** built using
 
 ```bash
 git clone https://github.com/gokulraktate/CSI_ASSIGNMENTS.git
-cd assignment_5
+cd assignment_6
 npm install
 npm run dev    
 ```
@@ -44,7 +44,7 @@ npm run dev
 ## 📁 Folder Structure
 
 ```bash
-assignment_5/
+assignment_6/
 ├── assets/
 ├── components/
 ├── features/
