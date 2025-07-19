@@ -61,5 +61,13 @@ Develop a Spotify 2.0 Clone Music App with enhanced features. Include music play
 
 ---
 
+### ✅ Assignment 7 – E-commerce Store 🛒
+
+Develop an E-commerce Store with advanced features. Include customizable products view (List/Grid), product listings, search functionality, cart management, checkout process, and payment gateway integration. Ensure seamless navigation and smooth user experience.
+
+📁 **Folder**: `/assignment_7`
+
+---
+
 
 > 📌 **Weekly assignments will be updated here as the internship progresses. Stay tuned!**
