@@ -7,7 +7,7 @@ import iphone16pro from './assets/Images/iphone16pro.png';
 
 
 import mobile from './assets/Images/categories/mobile.png';
-import laptop from './assets/Images/categories/mobile.png';
+import laptop from './assets/Images/categories/laptop.png';
 import earbud from './assets/Images/categories/earbud.png';
 import monitor from './assets/Images/categories/monitor.png';
 import speaker from './assets/Images/categories/speaker.png';
@@ -81,5 +81,46 @@ export const topCategories = [
     id: 7,
     name: "Tablets",
     image: tablet,
+  },
+];
+
+
+
+
+export const topBrands = [
+  {
+    id: 1,
+    name: "Apple",
+    image: "./src/assets/Images/brands/apple.png",
+  },
+  {
+    id: 2,
+    name: "Samsung",
+    image: "./src/assets/Images/brands/samsung.svg",
+  },
+  {
+    id: 3,
+    name: "Sony",
+    image: "./src/assets/Images/brands/sony.png",
+  },
+  {
+    id: 4,
+    name: "LG",
+    image: "./src/assets/Images/brands/lg.svg",
+  },
+  {
+    id: 5,
+    name: "HP",
+    image: "./src/assets/Images/brands/hp.svg",
+  },
+  {
+    id: 6,
+    name: "Dell",
+    image: "./src/assets/Images/brands/dell.png",
+  },
+  {
+    id: 7,
+    name: "Lenovo",
+    image: "./src/assets/Images/brands/lenovo.png",
   },
 ];
