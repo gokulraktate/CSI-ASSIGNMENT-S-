@@ -1,5 +1,5 @@
 
-# Assignment 7 – E-commerce Store 🛒
+# Assignment 8 – E-commerce Store 🛒
 
 A dynamic and fully responsive **E-commerce Store** built using **React** and **Tailwind CSS**, providing a seamless shopping experience with advanced features such as customizable product views, cart management, checkout, and integrated payment gateway.
 
@@ -21,7 +21,7 @@ A dynamic and fully responsive **E-commerce Store** built using **React** and **
 
 ```bash
 git clone https://github.com/gokulraktate/CSI_ASSIGNMENTS.git
-cd assignment_7
+cd assignment_8
 npm install
 npm run dev    
 ````
@@ -43,7 +43,7 @@ npm run dev
 ## 📁 Folder Structure
 
 ```bash
-assignment_7/
+assignment_8/
 ├── assets/
 ├── components/
 ├── context/ or redux/
