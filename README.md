@@ -70,4 +70,48 @@ Develop an E-commerce Store with advanced features. Include customizable product
 ---
 
 
-> 📌 **Weekly assignments will be updated here as the internship progresses. Stay tuned!**
+### ✅ Assignment 8 – E-commerce Store 🛒
+
+Develop an E-commerce Store with advanced features. Include customizable products view (List/Grid), product listings, search functionality, cart management, checkout process, and payment gateway integration. Ensure seamless navigation and smooth user experience.
+
+📁 **Folder**: `/assignment_8`
+
+---
+
+
+
+## 🎓 Internship Completion Summary
+
+The **Celebal Summer Internship (CSI'25)** was an enriching and hands-on experience where I deepened my understanding of modern web development using **React.js**. Over 8 weeks, I worked on a variety of projects ranging from form validation and dashboards to full-fledged e-commerce and music streaming applications.
+
+Through this internship, I gained practical experience in:
+
+- React component architecture and state management  
+- Form handling, validation, and routing  
+- Advanced UI/UX implementation with dashboards and charts  
+- Real-world features like music playback, shopping cart systems, and payments  
+- Project structuring and Git version control
+
+---
+
+## 🙏 Acknowledgements
+
+I sincerely thank **Celebal Technologies** for the opportunity to intern and grow under the CSI'25 program. Special thanks to my mentors and teammates for their guidance, code reviews, and support throughout this journey.
+
+---
+
+## 🔗 Connect with Me
+
+If you have any questions or want to discuss any of the projects:
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/gokul-raktate-3a6789216/)
+- 📧 Email: gokulsanjayraktate@gmail.com
+
+---
+
+## 📌 Note
+
+All the assignments listed above were built independently as part of the internship requirements.  
+Each folder includes project-specific documentation and instructions for running the app locally.
+
+---
